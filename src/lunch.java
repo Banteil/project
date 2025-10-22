@@ -5,6 +5,7 @@ public class lunch {
         System.out.println("배고파요");
         Scanner sc = new Scanner(System.in);
         System.out.println("메뉴추천");
+        System.out.println("밀가루 빼고");
         String lunch = sc.nextLine();
         System.out.println(lunch);
         sc.close();
