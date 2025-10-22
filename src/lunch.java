@@ -7,5 +7,6 @@ public class lunch {
         System.out.println("메뉴추천");
         String lunch = sc.nextLine();
         System.out.println(lunch);
+        sc.close();
     }
 }
