@@ -1,5 +1,5 @@
 public class yks {
     public static void main(String[] args) {
-        System.out.println("일부러 충돌내보기");
+        System.out.println("안녕하세요!!");
     }
 }
